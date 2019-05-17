@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class JDBCApplication {
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		System.out.println("-------- Test de conexión con MySQL ------------");
 
 		try {
@@ -46,6 +46,6 @@ public class JDBCApplication {
 		         	se.printStackTrace();
 		    }
 		}
-	}
+	}*/
 
 }
